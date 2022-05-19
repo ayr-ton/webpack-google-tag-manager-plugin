@@ -13,11 +13,11 @@
 ## Installation
 
 ```bash
-  npm i --save-dev webpack-google-tag-manager-plugin
+  npm i --save-dev webpack5-google-tag-manager-plugin
 ```
 
 ```bash
-  yarn add --dev webpack-google-tag-manager-plugin
+  yarn add --dev webpack5-google-tag-manager-plugin
 ```
 
 ## Examples
@@ -25,7 +25,7 @@ Webpack basic configuration for setting up the plugin
 ```Javascript
 import webpack from 'webpack'
 import HtmlWebpackPlugin from 'html-webpack-plugin'
-import GoogleTagManagerPlugin from 'webpack-google-tag-manager-plugin'
+import GoogleTagManagerPlugin from 'webpack5-google-tag-manager-plugin'
 
 module.exports = {
     ...
@@ -45,7 +45,7 @@ Webpack configuration for making use of your environments
 ```Javascript
 import webpack from 'webpack'
 import HtmlWebpackPlugin from 'html-webpack-plugin'
-import GoogleTagManagerPlugin from 'webpack-google-tag-manager-plugin'
+import GoogleTagManagerPlugin from 'webpack5-google-tag-manager-plugin'
 
 module.exports = {
     ...
