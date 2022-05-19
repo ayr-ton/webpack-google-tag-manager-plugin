@@ -69,4 +69,4 @@ Webpack Google Tag Manager Plugin is published under [MIT License](https://githu
 
 ## Collaboration
 
-If you have any questions, please contact me via [e-mail](mailto:dev@timjorjev.com). For [issues](https://github.com/timjorjev/webpack-google-tag-manager-plugin/issues), please [open an issue](https://github.com/timjorjev/webpack-google-tag-manager-plugin/issues/new)!
+If you have any questions, please contact me via [e-mail](mailto:ayrton@duck.com). For [issues](https://github.com/ayr-ton/webpack-google-tag-manager-plugin/issues), please [open an issue](https://github.com/ayr-ton/webpack-google-tag-manager-plugin/issues/new)!
