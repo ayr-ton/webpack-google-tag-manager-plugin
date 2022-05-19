@@ -1,14 +1,14 @@
 {
-  "name": "webpack-google-tag-manager-plugin",
-  "version": "1.0.3",
+  "name": "webpack5-google-tag-manager-plugin",
+  "version": "1.0.4",
   "description": "A clean and easy way to add Google Tag Manager support to your web project.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/timjorjev/webpack-google-tag-manager-plugin.git"
+    "url": "https://github.com/ayr-ton/webpack-google-tag-manager-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/timjorjev/webpack-google-tag-manager-plugin/issues"
+    "url": "https://github.com/ayr-ton/webpack-google-tag-manager-plugin/issues"
   },
   "keywords": [
     "webpack",
@@ -22,13 +22,13 @@
     "email": "dev@timjorjev.com"
   },
   "license": "MIT",
-  "private": false,
   "devDependencies": {
-    "common-tags": "1.8.0"
+    "common-tags": "1.8.2"
   },
   "peerDependencies": {
-    "html-webpack-plugin": "4.0.0-beta.8",
-    "webpack": "4.41.0",
-    "webpack-cli": "3.3.9"
-  }
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "packageManager": "yarn@3.2.1"
 }
